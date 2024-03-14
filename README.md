@@ -1,2 +1,2 @@
 # News-Categorization
-i Have LSTM model  
+I Have used LSTM model  
